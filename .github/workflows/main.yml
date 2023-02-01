@@ -1,6 +1,4 @@
- #!/bin/bash
 
-# colour 
 Black="\033[1;30m"       # Black
 Green="\033[1;32m"       # Green
 Yellow="\033[1;33m"      # Yellow
